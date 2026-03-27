@@ -27,7 +27,7 @@ impact export values in Latin America and the Caribbean?
 latam-export-analysis/
 ├── data/
 │   ├── data:world_bank_lpi_latam_caribbean.csv
-│   ├── TradeData_3_24_2026_14_26_5.csv
+│   ├── un_comtrade_latam_exports.csv
 │   └── merged_clean.csv
 ├── notebooks/
 │   └── latam_export_analysis.ipynb
